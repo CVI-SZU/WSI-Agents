@@ -1,7 +1,7 @@
 <div align="center">
-<h1>(MICCAI 2025) WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis</h1>
+<h1>(MICCAI 2025 Oral) WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis</h1>
 
-[Xinheng Lyu](https://scholar.google.com.hk/citations?user=4Id5lnYAAAAJ&hl) · [Yuci Liang]() · [Wenting Chen*](https://scholar.google.com/citations?user=3dtKW_8AAAAJ&hl) · [Meidan Ding](https://scholar.google.com/citations?user=u6-ueNoAAAAJ&hl) · [Jiaqi Yang]() · [Guolin Huang](https://scholar.google.com/citations?user=3Kv4D8MAAAAJ&hl) · [Daokun Zhang](https://scholar.google.com/citations?user=ar_onRIAAAAJ&hl=en) · [Xiangjian He*](https://scholar.google.com/citations?user=BiBXGfIAAAAJ&hl) · [Linlin Shen*](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl)
+[Xinheng Lyu](https://scholar.google.com.hk/citations?user=4Id5lnYAAAAJ&hl) · [Yuci Liang]() · [Wenting Chen*](https://scholar.google.com/citations?user=3dtKW_8AAAAJ&hl) · [Meidan Ding](https://scholar.google.com/citations?user=u6-ueNoAAAAJ&hl) · [Jiaqi Yang]() · [Guolin Huang](https://scholar.google.com/citations?user=3Kv4D8MAAAAJ&hl) · <br> [Daokun Zhang](https://scholar.google.com/citations?user=ar_onRIAAAAJ&hl=en) · [Xiangjian He*](https://scholar.google.com/citations?user=BiBXGfIAAAAJ&hl) · [Linlin Shen*](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl)
 
 <sup>*</sup>Corresponding Authors
 
